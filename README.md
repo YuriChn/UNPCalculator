@@ -1,4 +1,4 @@
 # PensamentoComputacional
 
-Nome: Eduardo Fernandes Habib Vieira\
+Nome: Eduardo F. H. V.
 Turma: A
